@@ -1,3 +1,6 @@
+# AUTH. ABHIJIT BAISHYA
+# LAST MODIFIED 09.03.2021
+
 import numpy as np
 from matplotlib import pyplot as plt
 #from sympy import symbols, solve
