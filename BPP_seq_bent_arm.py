@@ -1,5 +1,6 @@
 # AUTH. ABHIJIT BAISHYA
 # LAST MODIFIED 09.03.2021
+# Program for Penetrability for sequential decay having bent arm structure
 
 import numpy as np
 from matplotlib import pyplot as plt
