@@ -1,3 +1,6 @@
+! AUTH. ABHIJIT BAISHYA
+! LAST MODIFIED 09.03.2021
+
 program pec_Seq_decay
 implicit none
 
