@@ -1,4 +1,7 @@
-program Penetribility
+! AUTH. ABHIJIT BAISHYA
+! LAST MODIFIED 09.03.2021
+
+program Penetribility_DDphi
 !  use omp_lib
  use ieee_arithmetic
 implicit none
