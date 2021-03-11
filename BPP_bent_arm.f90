@@ -1,4 +1,7 @@
-program Coulomb_Penetribility
+! AUTH. ABHIJIT BAISHYA
+! LAST MODIFIED 09.03.2021
+
+program Penetribility_bent_arm
 !  use omp_lib
  use ieee_arithmetic
 implicit none
