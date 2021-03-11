@@ -1,3 +1,6 @@
+! AUTH. ABHIJIT BAISHYA
+! LAST MODIFIED 09.03.2021
+
 program Penetribility_DDE
 !  use omp_lib
  use ieee_arithmetic
